@@ -14,6 +14,6 @@ sudo apt install python3.11 -y
 sudo apt install pip -y
 pip install --upgrade pip
 
-sudo apt install python-venv -y
+sudo apt-get install python3-venv -y
 
 
